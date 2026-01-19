@@ -43,4 +43,5 @@ The purpose of this project is to demonstrate how a simple web application can b
 AND BOOM
 
 - Author
+
   Developed by -> Muhammad Usaid <- (Basic Website)
